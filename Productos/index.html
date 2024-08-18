@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productos</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="../IMAG/ico.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1>Nuestros Productos</h1>
+        <input type="text" id="search-bar" placeholder="Buscar producto...">
+    </header>
+    <main>
+        <div id="productos-container" class="productos-container">
+            <!-- Aquí se cargarán dinámicamente los productos -->
+        </div>
+        <div id="no-results" class="no-results" style="display: none;">
+            <p>¡Ups! No encontramos el producto que buscas. Pero no te preocupes, ¡estamos aquí para ayudarte! Pregunta por el artículo que necesitas y te asistiremos con gusto</p>
+            <a id="btn-whatsapp-no-result" href="https://wa.me/51922072353?text=Hola, quisiera saber si tienes este producto: " target="_blank" class="btn-whatsapp">Preguntar por este producto</a>
+        </div>
+        <div id="pagination-container" class="pagination-container">
+            <!-- Aquí se generarán los botones de paginación -->
+        </div>
+    </main>
+    <footer>
+        <p>© 2024 Tu Nombre. Todos los derechos reservados.</p>
+    </footer>
+
+    <!-- Ventana emergente -->
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <p>Para una experiencia de navegación más rápida y eficiente, le recomendamos utilizar la barra de búsqueda para encontrar el producto que está buscando. Simplemente escriba el nombre o una palabra clave del producto en el campo de búsqueda para ver los resultados instantáneamente.</p>
+            <button id="close-popup" class="btn-close-popup">Entendido</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

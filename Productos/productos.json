@@ -1,0 +1,800 @@
+[
+    {
+      "nombre": "Office 365",
+      "descripcion": "Suite de aplicaciones de productividad en la nube con Word, Excel, PowerPoint y más. Incluye almacenamiento en OneDrive y actualizaciones automáticas.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Office 365.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy%20interesado%20en%20adquirir%20Office%20365\n"
+    },
+    {
+      "nombre": "Office 2024 LTSC",
+      "descripcion": "Office 2024 LTSC brinda aplicaciones locales como Word, Excel y PowerPoint sin necesidad de conexión a internet. Incluye características avanzadas y soporte extendido.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/QW.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Office 2024 LTSC"
+    },
+    {
+      "nombre": "Office 2021",
+      "descripcion": "Office 2021 ofrece herramientas de productividad actualizadas para usuarios sin suscripción. Incluye mejoras en Word, Excel, PowerPoint, y soporte técnico prolongado.",
+      "precio": "S/ 25.00",
+      "imagen": "FONDOS/Office 2021.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Office 2021"
+    },
+    {
+      "nombre": "Office 2019",
+      "descripcion": "Office 2019 incluye mejoras significativas en Excel, PowerPoint y Word, con funciones avanzadas para optimizar la productividad en diversos entornos.",
+      "precio": "S/ 20.00",
+      "imagen": "FONDOS/Office 2019.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Office 2019"
+    },
+    {
+      "nombre": "Office 2016 Pro",
+      "descripcion": "Office 2016 Pro mejora la productividad con herramientas avanzadas en Excel y colaboración en tiempo real, ideal para profesionales en busca de eficacia.",
+      "precio": "S/ 20.00",
+      "imagen": "FONDOS/OFFICE 2016.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Office 2016 Pro"
+    },
+    {
+      "nombre": "Visio 365",
+      "descripcion": "Visio 365 facilita la creación de diagramas complejos con herramientas intuitivas y opciones de colaboración en tiempo real, perfecto para equipos dinámicos",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/visio 365.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Visio 365"
+    },
+    {
+      "nombre": "Visio LTSC",
+      "descripcion": "Visio LTSC ofrece robustas herramientas de diagramación con licencia perpetua, ideal para usuarios que requieren funcionalidad sin suscripciones continuas.",
+      "precio": "S/ 20.00",
+      "imagen": "FONDOS/visioltsc.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Visio LTSC"
+    },
+    {
+      "nombre": "Project 365",
+      "descripcion": "Herramienta en la nube para la gestión de proyectos, parte de Microsoft 365",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/project365.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Project 365"
+    },
+    {
+      "nombre": "Project LTSC",
+      "descripcion": "Versión de Project con soporte a largo plazo, ideal para la gestión de proyectos",
+      "precio": "S/ 20.00",
+      "imagen": "FONDOS/projectltsc.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Project LTSC"
+    },
+    {
+      "nombre": "Power BI Pro",
+      "descripcion": "Herramienta avanzada para análisis de datos y visualización, ideal para profesionales",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/powerbipro.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Power BI Pro"
+    },
+    {
+      "nombre": "Adobe Creative Cloud",
+      "descripcion": "Syscripción que ofrece acceso a toda la colección de aplicaciones de Adobe, incluyendo Photoshop, Illustrator, Premiere Pro, After Effects, y más. Ideal para diseñadores, fotógrafos, videógrafos y creativos en general",
+      "precio": "S/ 60.00",
+      "imagen": "FONDOS/creativecloud.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Adobe Creative Cloud"
+    },
+    {
+      "nombre": "Adobe After Effects 2024",
+      "descripcion": "Software de efectos visuales y gráficos en movimiento líder en la industria, ideal para diseñadores y animadores.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_after_effects.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe After Effects 2024"
+    },
+    {
+      "nombre": "Adobe Animate 2024",
+      "descripcion": "Potente herramienta para diseñar animaciones vectoriales interactivas para juegos, aplicaciones y la web.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_animate.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Animate 2024"
+    },
+    {
+      "nombre": "Adobe Audition 2024",
+      "descripcion": "Plataforma completa para la grabación, edición y mezcla de audio profesional.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_audition.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Audition 2024"
+    },
+    {
+      "nombre": "Adobe Bridge 2024",
+      "descripcion": "Potente gestor de medios digitales que centraliza el acceso a todos tus activos creativos.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_bridge.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Bridge 2024"
+    },
+    {
+      "nombre": "Adobe Character Animator 2024",
+      "descripcion": "Anima personajes en tiempo real con tu expresión y movimientos mediante el uso de la cámara y el micrófono.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_character_animator.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Character Animator 2024"
+    },
+    {
+      "nombre": "Adobe Fresco",
+      "descripcion": "Aplicación de dibujo y pintura diseñada para artistas digitales.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_fresco.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Fresco"
+    },
+    {
+      "nombre": "Adobe Illustrator 2024",
+      "descripcion": "Software líder de la industria para la creación de gráficos vectoriales.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_illustrator.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Illustrator 2024"
+    },
+    {
+      "nombre": "Adobe InCopy 2024",
+      "descripcion": "Herramienta de redacción y edición que se integra perfectamente con Adobe InDesign.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_incopy.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe InCopy 2024"
+    },
+    {
+      "nombre": "Adobe InDesign 2024",
+      "descripcion": "Software de diseño y publicación líder utilizado para crear obras como posters, folletos, revistas y libros.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_indesign.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe InDesign 2024"
+    },
+    {
+      "nombre": "Adobe Lightroom 2024",
+      "descripcion": "La solución clásica de Adobe para la edición y organización fotográfica, con herramientas potentes y fáciles de usar.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_lightroom_classic.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Lightroom 2024"
+    },
+    {
+      "nombre": "Adobe Media Encoder 2024",
+      "descripcion": "Potente herramienta que permite codificar y exportar tus vídeos a varios formatos compatibles con una variedad de dispositivos.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_media_encoder.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Media Encoder 2024"
+    },
+    {
+      "nombre": "Adobe Photoshop 2024",
+      "descripcion": "El software más avanzado y popular para la edición y manipulación de imágenes digitales.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_photoshop.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Photoshop 2024"
+    },
+    {
+      "nombre": "Adobe Premiere PProfesionalro ",
+      "descripcion": "El estándar de la industria para la edición de video, desde cortometrajes hasta producciones de cine.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_premiere_pro.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Premiere Profesional"
+    },
+    {
+      "nombre": "Adobe Premiere Rush",
+      "descripcion": "Versión simplificada de Premiere para editores en movimiento que necesitan herramientas rápidas y efectivas.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_premiere_rush.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Premiere Rush"
+    },
+    {
+      "nombre": "Adobe XD",
+      "descripcion": "La herramienta de diseño UX/UI para la creación de prototipos y mockups de alta fidelidad.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/adobe_xd.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe XD"
+    },
+    {
+      "nombre": "Adobe Dimension",
+      "descripcion": "Adobe Dimension permite a los diseñadores crear imágenes y escenas 3D realistas, facilitando la visualización de productos y la creación de gráficos publicitarios de alta calidad.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/dimension.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe "
+    },
+    {
+      "nombre": "Adobe Dreamweaver",
+      "descripcion": "Adobe Dreamweaver es una herramienta potente para diseñar, codificar y gestionar sitios web, combinando una interfaz visual con la edición de código para desarrolladores y diseñadores web.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Dreamweaver.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Adobe Dreamweaver"
+    },
+    {
+      "nombre": "CorelDRAW Graphics Suite",
+      "descripcion": "Suite de diseño gráfico profesional que incluye herramientas para ilustración vectorial, diseño de páginas, edición de fotos, y más. Ideal para creativos en diseño gráfico, marketing y comunicación visual.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/coreldrawsuite.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en CorelDRAW Graphics Suite"
+    },
+    {
+      "nombre": "CorelDRAW Technical Suite",
+      "descripcion": "Conjunto de herramientas especializadas para la creación de ilustraciones técnicas detalladas, incluyendo diagramas, documentación técnica y gráficos precisos. Ideal para ingenieros, diseñadores técnicos y profesionales de la manufactura.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/coreldrawtechnical.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en CorelDRAW Technical Suite"
+    },
+    {
+      "nombre": "Adobe Acrobat Pro DC",
+      "descripcion": "Editor de PDF líder en la industria, permite crear, editar, convertir, firmar y compartir archivos PDF.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/acrobatprodc.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Adobe Acrobat Pro DC"
+    },
+    {
+      "nombre": "Foxit PhantomPDF",
+      "descripcion": "Editor de PDF completo con edición avanzada, creación de formularios y herramientas de colaboración.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/foxitphantompdf.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Foxit PhantomPDF"
+    },
+    {
+      "nombre": "Nitro Pro PDF",
+      "descripcion": "Herramienta poderosa para la creación, edición y conversión de archivos PDF. Ofrece integración con la nube y seguridad avanzada.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/nitropro.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Nitro Pro"
+    },
+    {
+      "nombre": "PDFelement",
+      "descripcion": "Editor de PDF fácil de usar con herramientas para crear, editar, convertir y firmar documentos.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/pdfelement.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en PDFelement"
+    },
+    {
+      "nombre": "Sejda PDF Editor",
+      "descripcion": "Editor de PDF con herramientas en línea y escritorio. Ideal para ediciones rápidas, dividir, fusionar y firmar documentos PDF.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/sejdapdf.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Sejda PDF Editor"
+    },
+    {
+      "nombre": "SketchUp Pro",
+      "descripcion": "Herramienta de modelado 3D para profesionales del diseño, arquitectura, e ingeniería. Ideal para crear planos, diseños de interiores, y modelos detallados.",
+      "precio": "S/ 25.00",
+      "imagen": "FONDOS/sketchuppro.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en SketchUp Pro"
+    },
+    {
+      "nombre": "V-Ray",
+      "descripcion": "Motor de renderizado avanzado para SketchUp, utilizado para crear imágenes fotorrealistas y animaciones. Es ideal para arquitectos, diseñadores y artistas 3D.",
+      "precio": "S/ 25.00",
+      "imagen": "FONDOS/vray.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en V-Ray"
+    },
+    {
+      "nombre": "AutoCAD",
+      "descripcion": "Software de diseño asistido por computadora (CAD) utilizado para crear dibujos 2D y 3D precisos.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/autocad.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en AutoCAD"
+    },
+    {
+      "nombre": "Autodesk Revit",
+      "descripcion": "Herramienta de modelado de información de construcción (BIM) para diseñar, construir y mantener edificios.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/revit.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk Revit"
+    },
+    {
+      "nombre": "Autodesk 3ds Max",
+      "descripcion": "Software de modelado, animación y renderizado 3D, utilizado en la creación de videojuegos y películas.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/3dsmax.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk 3ds Max"
+    },
+    {
+      "nombre": "Autodesk Maya",
+      "descripcion": "Herramienta avanzada de modelado, simulación y animación 3D.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/maya.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk Maya"
+    },
+    {
+      "nombre": "Autodesk Inventor",
+      "descripcion": "Software de modelado 3D para diseño mecánico y simulación, ideal para ingenieros.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/inventor.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk Inventor"
+    },
+    {
+      "nombre": "Autodesk Civil 3D",
+      "descripcion": "Software de diseño de ingeniería civil para infraestructuras como carreteras y sistemas de alcantarillado.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/civil3d.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Civil Autodesk 3D"
+    },
+    {
+      "nombre": "Autodesk Navisworks",
+      "descripcion": "Software de revisión de proyectos para revisar modelos 3D, realizar análisis y simulaciones.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/navisworks.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk Navisworks"
+    },
+    {
+      "nombre": "Autodesk AutoCAD Raster Design",
+      "descripcion": "AutoCAD Raster Design permite editar y convertir imágenes raster en objetos vectoriales dentro de AutoCAD, facilitando la integración y mejora de planos escaneados en proyectos CAD.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/rasterdesign.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk AutoCAD Raster Design"
+    },
+    {
+      "nombre": "Autodesk InfraWorks",
+      "descripcion": "Plataforma de modelado de infraestructuras para la planificación y diseño de proyectos civiles.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/infraworks.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk InfraWorks"
+    },
+    {
+      "nombre": "Autodesk Robot Structural Analysis",
+      "descripcion": "Software de análisis estructural para ingenieros civiles y estructurales.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/robotstructural.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk Robot Structural Analysis"
+    },
+    {
+      "nombre": "Autodesk Vehicle Tracking",
+      "descripcion": "Herramienta para la simulación de movimientos de vehículos y análisis de rutas en proyectos de infraestructura.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/vehicletracking.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk Vehicle Tracking"
+    },
+    {
+      "nombre": "Autodesk Advance Steel",
+      "descripcion": "Software de modelado 3D para detallado de estructuras de acero.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/advancesteel.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk Advance Steel"
+    },
+    {
+      "nombre": "Autodesk Structural Bridge Design",
+      "descripcion": "Herramienta de diseño estructural específica para puentes.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/structuralbridge.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk Structural Bridge Design"
+    },
+    {
+      "nombre": "Autodesk AutoCAD MEP",
+      "descripcion": "AutoCAD MEP está diseñado para ingenieros de mecánica, electricidad y plomería, ofreciendo herramientas específicas para el diseño y documentación de sistemas MEP en edificios.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/fabricationcadmep.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk AutoCAD MEP"
+    },
+    {
+      "nombre": "Autodesk AutoCAD Map 3D",
+      "descripcion": "AutoCAD Map 3D integra herramientas de GIS con CAD para gestionar, analizar y visualizar datos geoespaciales, ideal para proyectos de cartografía y planificación urbana.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/mapa3d.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk AutoCAD Map 3D"
+    },
+    {
+      "nombre": "Autodesk AutoCAD Mechanical",
+      "descripcion": "AutoCAD Mechanical optimiza el diseño mecánico con herramientas específicas para ingeniería, proporcionando bibliotecas de piezas estándar y funciones que automatizan tareas complejas.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Mechanical.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk AutoCAD Mechanical"
+    },
+    {
+      "nombre": "Autodesk AutoCAD Electrical",
+      "descripcion": "AutoCAD Electrical es un software diseñado específicamente para la creación de esquemas eléctricos, ofreciendo herramientas automatizadas para el diseño y documentación de sistemas eléctricos.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Electrical.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk AutoCAD Electrical"
+    },
+    {
+      "nombre": "Autodesk AutoCAD Plant 3D",
+      "descripcion": "AutoCAD Plant 3D es un software especializado en el diseño y modelado de plantas industriales, que permite crear y gestionar tuberías, equipos y estructuras en 3D.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Plant.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk Autodesk AutoCAD Plant 3D"
+    },
+    {
+      "nombre": "Autodesk AutoCAD Architecture",
+      "descripcion": "AutoCAD Architecture es una versión especializada de AutoCAD que incluye herramientas avanzadas para el diseño arquitectónico, facilitando la creación y documentación de planos.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Architecture.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk AutoCAD Architecture"
+    },
+    {
+      "nombre": "Autodesk ReCap Pro",
+      "descripcion": "Versión avanzada de ReCap, para la captura de la realidad y conversión de datos en 3D.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/recappro.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk ReCap Pro"
+    },
+    {
+      "nombre": "Autodesk Eagle 2020",
+      "descripcion": "Autodesk Eagle es un software de diseño PCB que facilita la creación de esquemas electrónicos y placas de circuitos impresos, ideal para ingenieros y diseñadores electrónicos.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Eagle.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Autodesk Eagle"
+    },
+    {
+      "nombre": "Carlson Precision 3D 2023",
+      "descripcion": "Carlson Precision 3D es una herramienta de modelado 3D que permite la creación precisa de superficies y alineaciones, ideal para proyectos de ingeniería civil y topografía avanzada.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Precision.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Carlson Precision 3D"
+    },
+    {
+      "nombre": "Carlson SurvPC 7.0.3",
+      "descripcion": "Carlson SurvPC es un software de recopilación de datos en campo que ofrece compatibilidad total con GIS y CAD, ideal para topógrafos que requieren precisión y flexibilidad en tiempo real.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/SurvPC.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Carlson SurvPC 7.0.3"
+    },
+    {
+      "nombre": "Carlson SurveyGNSS v2.3.6",
+      "descripcion": "Carlson SurveyGNSS es una herramienta avanzada para el procesamiento de datos GNSS, permitiendo un análisis preciso y detallado en aplicaciones de topografía y geodesia.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/SurveyGNSS.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Carlson SurveyGNSS v2.3.6"
+    },
+    {
+      "nombre": "Carlson Civil Suite 2024",
+      "descripcion": "Carlson Civil Suite ofrece un conjunto completo de herramientas para diseño civil, incluyendo topografía, diseño de carreteras y modelado de terrenos, ideal para ingenieros y topógrafos.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Suite.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en Carlson Civil Suite 2024"
+    },
+    {
+      "nombre": "3Dsurvey v2.16.0",
+      "descripcion": "3Dsurvey es una herramienta completa de fotogrametría que convierte imágenes en modelos 3D detallados, ideal para topografía, planificación y análisis geoespacial.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/3Dsurvey.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en 3Dsurvey v2.16.0"
+    },
+    {
+      "nombre": "SOLIDWORKS Premium",
+      "descripcion": "Paquete completo que incluye todas las funciones de SOLIDWORKS Professional, además de simulaciones avanzadas, análisis de movimiento, y diseño de cableado y tuberías.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/solidworkspremium.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en SOLIDWORKS Premium"
+    },
+    {
+      "nombre": "CSI SAFE",
+      "descripcion": "Software integral para el diseño de cimentaciones y losas, ofreciendo análisis detallado y automatizado.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/csi_safe.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir CSI SAFE"
+    },
+    {
+      "nombre": "CSI ETABS",
+      "descripcion": "Software líder para análisis y diseño estructural de edificios, utilizado por ingenieros estructurales.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/csi_etabs.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir CSI ETABS"
+    },
+    {
+      "nombre": "CSI CSiPlant",
+      "descripcion": "Herramienta especializada para el análisis y diseño de sistemas de tuberías y estructuras de plantas.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/csi_csiplant.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir CSI CSiPlant"
+    },
+    {
+      "nombre": "CSI SAP",
+      "descripcion": "Software de análisis y diseño estructural avanzado para ingenieros civiles y estructurales.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/csi_sap.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir CSI SAP"
+    },
+    {
+      "nombre": "CSiBridge",
+      "descripcion": "Programa avanzado para el modelado, análisis y diseño de puentes.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/csi_csi_bridge.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir CSiBridge"
+    },
+    {
+      "nombre": "CSI Perform3D",
+      "descripcion": "Software para análisis no lineal y evaluación del rendimiento sísmico de estructuras.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/csi_perform3d.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir CSI Perform3D"
+    },
+    {
+      "nombre": "CSixRevit",
+      "descripcion": "Plugin que permite la interoperabilidad entre CSI productos y Autodesk Revit para modelado de información.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/csix_revit.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir CSixRevit"
+    },
+    {
+      "nombre": "CSiCol",
+      "descripcion": "Software especializado en el diseño y análisis de columnas de concreto, optimizando estructuras verticales.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/csicol.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir CSiCol"
+    },
+    {
+      "nombre": "CSiXCad",
+      "descripcion": "CSiXCad facilita la interoperabilidad entre modelos estructurales de CSI y AutoCAD, automatizando la generación de dibujos y mejorando la eficiencia en proyectos complejos.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/CSiXCad.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir CSiXCad"
+    },
+    {
+      "nombre": "ZWSOFT ZW3D",
+      "descripcion": "Software avanzado de CAD/CAM que ofrece soluciones integradas para diseño, modelado y mecanizado.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/zwsoft_zw3d.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir ZWSOFT ZW3D"
+    },
+    {
+      "nombre": "Chat GPT",
+      "descripcion": "Software de inteligencia artificial avanzado que permite la interacción conversacional natural.",
+      "precio": "S/ 25.00",
+      "imagen": "FONDOS/chat_gpt.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Chat GPT"
+    },
+    {
+      "nombre": "Chaos Corona",
+      "descripcion": "Motor de renderizado de alta calidad para efectos visuales y gráficos arquitectónicos realistas.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/chaos_corona.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Chaos Corona"
+    },
+    {
+      "nombre": "Rhinoceros",
+      "descripcion": "Software de diseño 3D para modelado de formas libres, utilizado principalmente en arquitectura y diseño.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/rhinoceros.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Rhinoceros"
+    },
+    {
+      "nombre": "ArchiCAD",
+      "descripcion": "Software BIM avanzado para arquitectos, que facilita la modelación de información de construcción en 3D.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/archicad.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir ArchiCAD"
+    },
+    {
+      "nombre": "Lumion 12 Pro",
+      "descripcion": "Software de visualización y renderización 3D que permite a los arquitectos transformar sus modelos CAD en vídeos o imágenes.",
+      "precio": "S/ 25.00",
+      "imagen": "FONDOS/lumion.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Lumiun 12 Pro"
+    },
+    {
+      "nombre": "AVG Driver Updater",
+      "descripcion": "Optimiza la actualización de drivers para mejorar el rendimiento del hardware y el sistema.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/avg_driver_updater.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir AVG Driver Updater"
+    },
+    {
+      "nombre": "AVG Secure VPN",
+      "descripcion": "Proporciona una conexión segura y privada a internet, protegiendo tu identidad y datos en línea.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/avg_secure_vpn.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir AVG Secure VPN"
+    },
+    {
+      "nombre": "AVG AntiTrack",
+      "descripcion": "Herramienta que ayuda a mantener tu identidad segura en línea al bloquear rastreadores.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/avg_antitrack.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir AVG AntiTrack"
+    },
+    {
+      "nombre": "AVG Internet Security",
+      "descripcion": "Protección avanzada contra virus, ransomware y otras amenazas en línea.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/avg_internet_security.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir AVG Internet Security"
+    },
+    {
+      "nombre": "Antivirus Eset Endpoint Security",
+      "descripcion": "Eset Endpoint Security ofrece una protección integral para empresas, combinando antivirus, cortafuegos y control de dispositivos para garantizar la seguridad de la red corporativa.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/eset_endpoint.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Antivirus Eset Smart Security Premium"
+    },
+    {
+      "nombre": "Eset Endpoint Antivirus",
+      "descripcion": "Antivirus y protección antispyware robusta para empresas, con administración centralizada.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Endpoint-antivirus-v2-800x800.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Eset Endpoint Antivirus"
+    },
+    {
+      "nombre": "Antivirus Eset NOD32",
+      "descripcion": "Eset NOD32 es un antivirus ligero y efectivo que protege contra virus, malware, ransomware y otras amenazas sin afectar el rendimiento de tu computadora.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Antivirus Eset NOD32.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Antivirus Eset NOD32"
+    },
+    {
+      "nombre": "Antivirus Eset Internet Security",
+      "descripcion": "Eset Internet Security ofrece protección completa con antivirus, cortafuegos, y seguridad para pagos en línea, manteniendo tus datos y dispositivos seguros.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Antivirus Eset Internet Security.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Antivirus Eset Internet Security"
+    },
+    {
+      "nombre": "Antivirus Eset Smart Security Premium",
+      "descripcion": "Eset Smart Security Premium combina protección antivirus avanzada con cifrado de datos, gestión de contraseñas y seguridad bancaria para proteger tu identidad digital.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Antivirus Eset Smart Security Premium.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Antivirus Eset Smart Security Premium"
+    },
+    {
+      "nombre": "Kaspersky Total Security",
+      "descripcion": "Protección total para la privacidad, dinero, identidad, fotos y familia contra amenazas en línea.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Kaspersky Total.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Kaspersky Total Security"
+    },
+    {
+      "nombre": "Kaspersky Antivirus",
+      "descripcion": "Software antivirus esencial para protección contra todo tipo de malware.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/kaspersky_antivirus.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Kaspersky Antivirus"
+    },
+    {
+      "nombre": "Kaspersky Internet Security",
+      "descripcion": "Protección avanzada para navegar, comprar y realizar actividades bancarias en línea.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Internet-Security.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Kaspersky Internet Security"
+    },
+    {
+      "nombre": "Antivirus Avast Security Premium",
+      "descripcion": "Software de seguridad avanzado que ofrece protección completa contra virus y malware.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Security-Premium-v3-800x800.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Antivirus Avast Security Premium"
+    },
+    {
+      "nombre": "Antivirus Avast Security Ultimate",
+      "descripcion": "Paquete todo-en-uno que incluye antivirus, limpiador de PC, herramientas de privacidad y rendimiento.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/avast_ultimate.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Antivirus Avast Security Ultimate"
+    },
+    {
+      "nombre": "Avast CleanUP Premium",
+      "descripcion": "Avast CleanUP Premium optimiza el rendimiento de tu PC eliminando archivos innecesarios, solucionando problemas y mejorando la velocidad del sistema.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Avast CleanUP Premium.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Avast CleanUP Premium"
+    },
+    {
+      "nombre": "Avast Secureline VPN",
+      "descripcion": "Avast Secureline VPN encripta tu conexión y oculta tu dirección IP, proporcionando una navegación segura y privada en cualquier red, incluso en Wi-Fi público.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Avast Secureline VPN.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Avast Secureline VPN"
+    },
+    {
+      "nombre": "Avast AntiTrack",
+      "descripcion": "Avast AntiTrack protege tu privacidad en línea, ocultando tu identidad y bloqueando rastreadores para evitar que terceros recopilen tu información personal.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Avast-AntiTrack-Premium.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Avast AntiTrack"
+    },
+    {
+      "nombre": "McAfee Total Protection",
+      "descripcion": "Completa seguridad en línea que protege contra virus, malware y las últimas amenazas en línea.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/mcafee_total_protection.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir McAfee Total Protection"
+    },
+    {
+      "nombre": "Antivirus McAfee LiveSafe",
+      "descripcion": "Seguridad integral con protección de identidad y privacidad para todos tus dispositivos.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/mcafee_livesafe.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Antivirus McAfee LiveSafe"
+    },
+    {
+      "nombre": "McAfee Internet Security",
+      "descripcion": "Solución de seguridad en línea que ofrece protección completa contra amenazas en línea.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/mcafee_internet_security.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir McAfee Internet Security"
+    },
+    {
+      "nombre": "Antivirus McAfee Plus",
+      "descripcion": "Solución de seguridad en línea que ofrece protección completa contra amenazas en línea.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/Antivirus McAfee Plus.png",
+      "whatsapp": "https://wa.me/51922072353?text=Estoy interesado en adquirir Antivirus McAfee Plus"
+    },
+    {
+      "nombre": "Global Mapper",
+      "descripcion": "Software de GIS que proporciona herramientas para mapeo y análisis de datos espaciales.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/globalmapper.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir Global Mapper)"
+    },
+    {
+      "nombre": "IBM SPSS Analytics",
+      "descripcion": "Herramienta de análisis estadístico que ofrece soluciones avanzadas para la investigación.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/ibmspss.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir IBM SPSS Analytics)"
+    },
+    {
+      "nombre": "Cinema 4D",
+      "descripcion": "Software de modelado y animación 3D utilizado en producción de películas, videojuegos y más.",
+      "precio": "S/ 45.00",
+      "imagen": "FONDOS/cinema4d.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir Cinema 4D)"
+    },
+    {
+      "nombre": "Vectorworks",
+      "descripcion": "Solución de diseño para arquitectura, interiorismo y paisajismo con herramientas de CAD.",
+      "precio": "S/ 40.00",
+      "imagen": "FONDOS/vectorworks.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir Vectorworks)"
+    },
+    {
+      "nombre": "BluffTitler",
+      "descripcion": "Aplicación para crear intros 3D, títulos animados y efectos gráficos para videos.",
+      "precio": "S/ 25.00",
+      "imagen": "FONDOS/blufftitler.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir BluffTitler)"
+    },
+    {
+      "nombre": "Pixologic ZBrush",
+      "descripcion": "Software de escultura digital utilizado para la creación de modelos 3D detallados.",
+      "precio": "S/ 50.00",
+      "imagen": "FONDOS/zbrush.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir Pixologic ZBrush)"
+    },
+    {
+      "nombre": "CorelCAD",
+      "descripcion": "Software CAD económico compatible con archivos .DWG para dibujo y diseño en 2D y 3D.",
+      "precio": "S/ 35.00",
+      "imagen": "FONDOS/corelcad.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir CorelCAD)"
+    },
+    {
+      "nombre": "DaVinci Resolve Studio",
+      "descripcion": "Software de edición de video y corrección de color profesional con herramientas avanzadas.",
+      "precio": "S/ 40.00",
+      "imagen": "FONDOS/davinciresolve.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir DaVinci Resolve Studio)"
+    },
+    {
+      "nombre": "LightBurn",
+      "descripcion": "Software de diseño y control para máquinas láser, enfocado en la edición vectorial.",
+      "precio": "S/ 30.00",
+      "imagen": "FONDOS/lightburn.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir LightBurn)"
+    },
+    {
+      "nombre": "Guitar Pro 8",
+      "descripcion": "Software avanzado para composición y edición de partituras de guitarra y otros instrumentos.",
+      "precio": "S/ 25.00",
+      "imagen": "FONDOS/guitarpro8.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir Guitar Pro 8)"
+    },
+    {
+      "nombre": "Windows 10 Pro",
+      "descripcion": "Sistema operativo Windows 10 Pro para uso empresarial y profesional con características avanzadas.",
+      "precio": "S/ 50.00",
+      "imagen": "FONDOS/windows10pro.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir Windows 10 Pro)"
+    },
+    {
+      "nombre": "Windows 10 Home",
+      "descripcion": "Sistema operativo Windows 10 Home para usuarios domésticos con funciones esenciales.",
+      "precio": "S/ 40.00",
+      "imagen": "FONDOS/windows10home.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir Windows 10 Home)"
+    },
+    {
+      "nombre": "Windows 11 Pro",
+      "descripcion": "Sistema operativo Windows 11 Pro con interfaz moderna y características para empresas.",
+      "precio": "S/ 55.00",
+      "imagen": "FONDOS/windows11pro.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir Windows 11 Pro)"
+    },
+    {
+      "nombre": "Windows 11 Home",
+      "descripcion": "Sistema operativo Windows 11 Home diseñado para usuarios domésticos con nuevas características.",
+      "precio": "S/ 45.00",
+      "imagen": "FONDOS/windows11home.png",
+      "whatsapp": "[Enlace de whatsapp](https://wa.me/51922072353?text=Estoy interesado en adquirir Windows 11 Home)"
+    }
+   ]
