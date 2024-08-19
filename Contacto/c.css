@@ -142,7 +142,7 @@ nav ul li a:hover {
 @media (max-width: 768px) {
     .customer-service-text {
         padding: 10px; /* Ajusta el padding para dispositivos móviles */
-        font-size: 20px; /* Ajusta el tamaño de la fuente para dispositivos más pequeños */
+        font-size: 10px; /* Ajusta el tamaño de la fuente para dispositivos más pequeños */
     }
 }
 
