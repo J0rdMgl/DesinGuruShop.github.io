@@ -260,14 +260,14 @@
     },
     {
       "nombre": "AutoCAD",
-      "descripcion": "Software de diseño asistido por computadora (CAD) utilizado para crear dibujos 2D y 3D precisos.",
+      "descripcion": "Software de diseño asistido por computadora (CAD utilizado para crear dibujos 2D y 3D precisos.",
       "precio": "S/ 30.00",
       "imagen": "FONDOSS/autocad.webp",
       "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en AutoCAD"
     },
     {
       "nombre": "Autodesk Revit",
-      "descripcion": "Herramienta de modelado de información de construcción (BIM) para diseñar, construir y mantener edificios.",
+      "descripcion": "Herramienta de modelado de información de construcción (BIM para diseñar, construir y mantener edificios.",
       "precio": "S/ 30.00",
       "imagen": "FONDOS/revit.webp",
       "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en Autodesk Revit"
@@ -704,97 +704,97 @@
       "descripcion": "Software de GIS que proporciona herramientas para mapeo y análisis de datos espaciales.",
       "precio": "S/ 30.00",
       "imagen": "FONDOSSS/globalmapper.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir Global Mapper)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Global Mapper"
     },
     {
       "nombre": "IBM SPSS Analytics",
       "descripcion": "Herramienta de análisis estadístico que ofrece soluciones avanzadas para la investigación.",
       "precio": "S/ 35.00",
       "imagen": "FONDOSSS/ibmspss.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir IBM SPSS Analytics)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir IBM SPSS Analytics"
     },
     {
       "nombre": "Cinema 4D",
       "descripcion": "Software de modelado y animación 3D utilizado en producción de películas, videojuegos y más.",
       "precio": "S/ 45.00",
       "imagen": "FONDOSS/cinema4d.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir Cinema 4D)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Cinema 4D"
     },
     {
       "nombre": "Vectorworks",
       "descripcion": "Solución de diseño para arquitectura, interiorismo y paisajismo con herramientas de CAD.",
       "precio": "S/ 40.00",
       "imagen": "FONDOS/vectorworks.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir Vectorworks)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Vectorworks"
     },
     {
       "nombre": "BluffTitler",
       "descripcion": "Aplicación para crear intros 3D, títulos animados y efectos gráficos para videos.",
       "precio": "S/ 25.00",
       "imagen": "FONDOSS/blufftitler.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir BluffTitler)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir BluffTitler"
     },
     {
       "nombre": "Pixologic ZBrush",
       "descripcion": "Software de escultura digital utilizado para la creación de modelos 3D detallados.",
       "precio": "S/ 50.00",
       "imagen": "FONDOS/zbrush.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir Pixologic ZBrush)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Pixologic ZBrush"
     },
     {
       "nombre": "CorelCAD",
       "descripcion": "Software CAD económico compatible con archivos .DWG para dibujo y diseño en 2D y 3D.",
       "precio": "S/ 35.00",
       "imagen": "FONDOSS/corelcad.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir CorelCAD)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir CorelCAD"
     },
     {
       "nombre": "DaVinci Resolve Studio",
       "descripcion": "Software de edición de video y corrección de color profesional con herramientas avanzadas.",
       "precio": "S/ 40.00",
       "imagen": "FONDOSSS/davinciresolve.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir DaVinci Resolve Studio)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir DaVinci Resolve Studio"
     },
     {
       "nombre": "LightBurn",
       "descripcion": "Software de diseño y control para máquinas láser, enfocado en la edición vectorial.",
       "precio": "S/ 30.00",
       "imagen": "FONDOSSS/lightburn.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir LightBurn)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir LightBurn"
     },
     {
       "nombre": "Guitar Pro 8",
       "descripcion": "Software avanzado para composición y edición de partituras de guitarra y otros instrumentos.",
       "precio": "S/ 25.00",
       "imagen": "FONDOSSS/guitarpro8.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir Guitar Pro 8)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Guitar Pro 8"
     },
     {
       "nombre": "Windows 10 Pro",
       "descripcion": "Sistema operativo Windows 10 Pro para uso empresarial y profesional con características avanzadas.",
       "precio": "S/ 50.00",
       "imagen": "FONDOS/windows10pro.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 10 Pro)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 10 Pro"
     },
     {
       "nombre": "Windows 10 Home",
       "descripcion": "Sistema operativo Windows 10 Home para usuarios domésticos con funciones esenciales.",
       "precio": "S/ 40.00",
       "imagen": "FONDOS/windows10home.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 10 Home)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 10 Home"
     },
     {
       "nombre": "Windows 11 Pro",
       "descripcion": "Sistema operativo Windows 11 Pro con interfaz moderna y características para empresas.",
       "precio": "S/ 55.00",
       "imagen": "FONDOS/windows11pro.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 11 Pro)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 11 Pro"
     },
     {
       "nombre": "Windows 11 Home",
       "descripcion": "Sistema operativo Windows 11 Home diseñado para usuarios domésticos con nuevas características.",
       "precio": "S/ 45.00",
       "imagen": "FONDOS/windows11home.webp",
-      "whatsapp": "[Enlace de whatsapp](https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 11 Home)"
+      "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 11 Home"
     }
    ]
