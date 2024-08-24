@@ -716,14 +716,14 @@
     {
       "nombre": "Cinema 4D",
       "descripcion": "Software de modelado y animación 3D utilizado en producción de películas, videojuegos y más.",
-      "precio": "S/ 45.00",
+      "precio": "S/ 30.00",
       "imagen": "FONDOSS/cinema4d.webp",
       "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Cinema 4D"
     },
     {
       "nombre": "Vectorworks",
       "descripcion": "Solución de diseño para arquitectura, interiorismo y paisajismo con herramientas de CAD.",
-      "precio": "S/ 40.00",
+      "precio": "S/ 25.00",
       "imagen": "FONDOS/vectorworks.webp",
       "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Vectorworks"
     },
@@ -737,21 +737,21 @@
     {
       "nombre": "Pixologic ZBrush",
       "descripcion": "Software de escultura digital utilizado para la creación de modelos 3D detallados.",
-      "precio": "S/ 50.00",
+      "precio": "S/ 30.00",
       "imagen": "FONDOS/zbrush.webp",
       "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Pixologic ZBrush"
     },
     {
       "nombre": "CorelCAD",
       "descripcion": "Software CAD económico compatible con archivos .DWG para dibujo y diseño en 2D y 3D.",
-      "precio": "S/ 35.00",
+      "precio": "S/ 25.00",
       "imagen": "FONDOSS/corelcad.webp",
       "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir CorelCAD"
     },
     {
       "nombre": "DaVinci Resolve Studio",
       "descripcion": "Software de edición de video y corrección de color profesional con herramientas avanzadas.",
-      "precio": "S/ 40.00",
+      "precio": "S/ 20.00",
       "imagen": "FONDOSSS/davinciresolve.webp",
       "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir DaVinci Resolve Studio"
     },
@@ -772,28 +772,28 @@
     {
       "nombre": "Windows 10 Pro",
       "descripcion": "Sistema operativo Windows 10 Pro para uso empresarial y profesional con características avanzadas.",
-      "precio": "S/ 50.00",
+      "precio": "S/ 25.00",
       "imagen": "FONDOS/windows10pro.webp",
       "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 10 Pro"
     },
     {
       "nombre": "Windows 10 Home",
       "descripcion": "Sistema operativo Windows 10 Home para usuarios domésticos con funciones esenciales.",
-      "precio": "S/ 40.00",
+      "precio": "S/ 20.00",
       "imagen": "FONDOS/windows10home.webp",
       "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 10 Home"
     },
     {
       "nombre": "Windows 11 Pro",
       "descripcion": "Sistema operativo Windows 11 Pro con interfaz moderna y características para empresas.",
-      "precio": "S/ 55.00",
+      "precio": "S/ 25.00",
       "imagen": "FONDOS/windows11pro.webp",
       "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 11 Pro"
     },
     {
       "nombre": "Windows 11 Home",
       "descripcion": "Sistema operativo Windows 11 Home diseñado para usuarios domésticos con nuevas características.",
-      "precio": "S/ 45.00",
+      "precio": "S/ 20.00",
       "imagen": "FONDOS/windows11home.webp",
       "whatsapp": "https://wa.me/51985096585?text=Estoy interesado en adquirir Windows 11 Home"
     }
