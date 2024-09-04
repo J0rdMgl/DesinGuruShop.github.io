@@ -1,0 +1,223 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    overflow-x: hidden; /* Evitar desplazamiento horizontal */
+}
+
+header {
+    background-color: #ff0000;
+    color: white;
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+.logo span {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    color: white;
+}
+
+.contact-item img {
+    width: 15px;
+    height: auto;
+    margin-right: 5px;
+}
+
+.main-nav {
+    background-color: #000;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+nav ul li {
+    position: relative;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+/* Resto de estilos... */
+
+
+
+/* Sección de Atención al Cliente */
+#customer-service {
+    display: flex; /* Usa flexbox para alinear imagen y texto */
+    align-items: center; /* Alinea verticalmente los elementos */
+    justify-content: center; /* Centra los elementos horizontalmente */
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #ffffff; /* Fondo blanco para todo el contenedor */
+}
+
+.customer-service-container {
+    display: flex;
+    align-items: center; /* Centra los elementos verticalmente */
+    justify-content: center; /* Centra los elementos horizontalmente */
+    width: 100%; /* Ocupa todo el ancho disponible */
+    max-width: 1200px; /* Máximo ancho del contenedor */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra sutil */
+    border-radius: 10px; /* Bordes redondeados */
+    overflow: hidden; /* Oculta cualquier contenido que sobrepase los bordes */
+}
+
+.customer-service-container img {
+    width: 40%; /* Incrementa el porcentaje para darle más espacio a la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+    border-right: 5px solid #f4f4f4; /* Borde derecho para separar imagen de texto */
+}
+
+.customer-service-text {
+    background-color: #b30c0c; /* Fondo morado para el texto */
+    color: rgb(255, 255, 255); /* Texto blanco */
+    padding: 20px;
+    width: 50%; /* El texto ocupa la otra mitad */
+    border: 5px solid #a5a5a5; /* Borde blanco alrededor del texto */
+    border-radius: 10px; /* Bordes redondeados para suavizar las esquinas */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra sutil para dar profundidad */
+    font-size: 40px; /* Aumenta el tamaño de la fuente para mayor visibilidad */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Centra el texto horizontalmente */
+}
+
+.customer-service-text h2 {
+    font-size: 50px; /* Tamaño más grande para el título */
+    margin-bottom: 30px; /* Espacio debajo del título */
+}
+
+@media (max-width: 768px) {
+    .customer-service-text {
+        padding: 10px; /* Ajusta el padding para dispositivos móviles */
+        font-size: 10px; /* Ajusta el tamaño de la fuente para dispositivos más pequeños */
+    }
+}
+
+@media (max-width: 768px) {
+    .customer-service-container {
+        flex-direction: column; /* Organiza la imagen y el texto en columna en pantallas pequeñas */
+    }
+
+    .customer-service-container img, .customer-service-text {
+        width: 50%; /* Ambos ocupan el 100% en dispositivos móviles */
+        border-right: none; /* Elimina el borde en móviles */
+    }
+
+    .customer-service-text {
+        padding: 50px; /* Ajusta el padding en dispositivos móviles */
+    }
+}
+
+/* Estilos para los iconos de redes sociales */
+.social-icon img {
+    width: 40px; /* Tamaño de los iconos */
+    height: 40px; /* Tamaño de los iconos */
+    margin: 10px; /* Espaciado entre iconos */
+}
+
+/* Estilos del pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.footer-column {
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+}
+
+.footer-column h3 {
+    margin-bottom: 10px;
+}
+
+.footer-column p, .footer-column ul {
+    margin: 5px 0;
+    line-height: 1.6;
+}
+
+.footer-column ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-column ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-column ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Diseño responsivo para ajustar la visualización en dispositivos móviles */
+@media (max-width: 768px) {
+    header, footer {
+        text-align: center;
+    }
+
+    .footer-column {
+        flex: 1 100%; /* Hace que cada columna ocupe el ancho completo en pantallas pequeñas */
+    }
+
+    #customer-service img {
+        width: 100%; /* Ajuste de imagen en dispositivos pequeños */
+    }
+}

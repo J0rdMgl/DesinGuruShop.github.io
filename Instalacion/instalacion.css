@@ -1,0 +1,167 @@
+/* Estilos Generales */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: #ff0000;
+    color: white;
+    padding: 10px 0.1px;
+    text-align: center;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between; /* Distribuye el contenido a los extremos */
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 40px;
+    margin-right: 8px;
+}
+
+.logo span {
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end; /* Alinea a la derecha */
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    color: white;
+}
+
+.contact-item img {
+    width: 12px;
+    height: auto;
+    margin-right: 3px;
+}
+
+.header-nav {
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+}
+
+.header-nav a {
+    color: white;
+    text-decoration: none;
+    padding: 20px 45px;
+    font-size: 14px;
+}
+
+.header-nav a:hover {
+    background-color: #555;
+}
+
+/* Ajustes para las listas del pie de página */
+footer ul {
+    list-style-type: none; /* Elimina los puntos de la lista */
+    padding: 0;
+    margin: 0;
+}
+
+/* Estilos para el main */
+main {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
+
+.menu-title {
+    color: red; /* Cambia el color a rojo */
+}
+
+.footer-menu, .footer-contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-menu a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.footer-menu a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para los íconos de redes sociales */
+.footer-social a {
+    color: white; /* Cambia el color a blanco */
+    font-size: 20px; /* Aumenta el tamaño de los íconos */
+    margin: 0 10px; /* Añade espacio entre los íconos */
+}
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+    .header-nav {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        justify-items: center;
+    }
+
+    .header-nav a {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    .contact-info, .logo {
+        font-size: 12px;
+    }
+
+    footer ul {
+        text-align: left;
+    }
+
+    footer {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contact-item img {
+        width: 10px;
+        margin-right: 2px;
+    }
+
+    .contact-info {
+        margin-top: 10px;
+    }
+    
+    main {
+        margin: 10px;
+        padding: 15px;
+    }
+}
