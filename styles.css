@@ -1,307 +1,189 @@
-body, html {
-    margin: 0;
-    padding: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f4f4;
-    overflow-x: hidden; /* Evitar desplazamiento horizontal */
+/* Importar la fuente desde Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+/* Estilo general del cuerpo */
+body {
+    background-image: url('pexels-luis-gomes-166706-546819.jpg'); /* Cambia esto por la ruta de tu imagen */
+    background-size: cover; /* La imagen cubrirá todo el fondo */
+    background-position: center; /* Centrar la imagen */
+    background-repeat: no-repeat; /* Evitar que la imagen se repita */
+    height: 100vh; /* El fondo cubrirá la altura completa de la ventana */
+    margin: 0; /* Eliminar los márgenes por defecto */
+    font-family: 'Poppins', sans-serif; /* Aplicar la fuente de Google */
 }
 
-header {
-    background-color: #ff0000;
-    color: white;
+/* Estilo para el contenedor del formulario */
+.container {
+    background-color: rgba(255, 255, 255, 0.9); /* Fondo blanco semitransparente */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Sombra para la caja */
+    max-width: 400px; /* Tamaño máximo de la caja */
+    margin: auto; /* Centrar horizontalmente */
+    margin-top: 100px; /* Separación desde la parte superior */
+    text-align: center; /* Alineación centrada del texto */
 }
 
-.top-bar {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px 20px;
-    align-items: center;
+/* Estilo moderno para el campo de texto */
+input[type="text"] {
+    width: 90%; /* Ancho completo */
+    padding: 12px; /* Espaciado interno */
+    margin-top: 10px; /* Margen superior */
+    margin-bottom: 10px; /* Margen inferior */
+    border: 1px solid #ccc; /* Borde gris claro */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    font-size: 16px; /* Tamaño de la fuente */
+    transition: all 0.3s ease; /* Transición suave */
 }
 
-.logo {
-    display: flex;
-    align-items: center;
+/* Cambios al hacer focus en el campo de texto */
+input[type="text"]:focus {
+    border-color: #007bff; /* Cambiar borde a azul */
+    outline: none; /* Quitar el borde por defecto */
+    box-shadow: 0 0 10px rgba(0, 123, 255, 0.2); /* Añadir sombra azul */
 }
 
-.logo img {
-    height: 50px;
-    margin-right: 10px;
-}
-
-.logo span {
-    font-size: 20px;
-    font-weight: bold;
-    color: white;
-}
-
-.contact-info {
-    display: flex;
-    align-items: center;
-}
-
-.contact-item {
-    display: flex;
-    align-items: center;
-    margin-right: 20px;
-    color: white;
-}
-
-.contact-item img {
-    width: 15px;
-    height: auto;
-    margin-right: 5px;
-}
-
-.main-nav {
-    background-color: #000;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 90px;
-}
-
-nav ul li {
-    position: relative;
-    display: inline-block;
-    margin-right: 20px;
-}
-
-nav ul li a {
-    color: white;
-    text-decoration: none;
-    padding: 10px 15px;
-    display: flex;
-    align-items: center;
-    height: 100%;
-}
-
-nav ul li a:hover {
-    background-color: #555;
-}
-
-nav ul li ul {
-    display: none;
-    position: absolute;
-    background-color: #333;
-    min-width: 160px;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-    padding: 12px 0;
-    margin-top: 5px;
-    border-radius: 4px;
-    transition: all 0.3s ease;
-    opacity: 0;
-    visibility: hidden;
-}
-
-nav ul li:hover > ul {
-    display: block;
-    opacity: 1;
-    visibility: visible;
-}
-
-nav ul li ul li {
-    clear: both;
-    color: white;
-    padding: 8px 15px;
-    text-align: left;
-}
-
-nav ul li ul li:hover {
-    background-color: #555;
-}
-
-.social-media {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-}
-
-.social-media a {
-    margin: 0 10px;
-}
-
-.social-media img {
-    width: 40px;
-    height: auto;
-}
-
-.product-carousel div img {
-    width: 40%;
-    margin: 0 auto;
-}
-
-.product-carousel div {
-    text-align: center;
-    padding: 10px;
-    transition: transform 0.2s;
-}
-
-.product-carousel div:hover {
-    transform: scale(1.1);
-}
-
-.product-carousel div p {
-    font-size: 14px;
-    color: #333;
-    margin: 5px 0;
-}
-
-.product-carousel div .price {
+/* Estilo del label (etiqueta) */
+label {
     font-size: 16px;
-    color: red;
     font-weight: bold;
-}
-
-.product-carousel .slick-list {
-    margin: 0 -10px;
-}
-
-.product-carousel .slick-slide > div {
-    padding: 0 10px;
-}
-
-#productos h2 {
-    text-align: center; /* Centra el texto horizontalmente */
-    margin: 20px 0; /* Añade un margen superior e inferior para darle espacio */
-}
-
-#promocional img {
-    width: 100%;
-    height: auto;
     display: block;
-    margin: 0;
-    padding: 0;
+    margin-bottom: 5px;
+    color: #333;
 }
-/* Estilos para el carrusel promocional */
-.promo-carousel div img {
+
+/* Estilo para el botón del formulario */
+button {
+    background-color: #007bff; /* Color azul para el botón */
+    color: white; /* Texto en blanco */
+    border: none; /* Sin bordes */
+    padding: 10px 20px; /* Espaciado interno del botón */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Mostrar la mano al pasar por encima */
+    font-size: 16px; /* Tamaño del texto */
+    width: 100%; /* Ancho completo del botón */
+    margin-top: 10px; /* Espaciado superior */
+}
+
+/* Efecto hover para el botón */
+button:hover {
+    background-color: #000000; /* Color más oscuro al pasar el mouse */
+}
+
+/* Estilo para la ventana modal */
+.modal {
+    position: fixed;
+    left: 0;
+    top: 0;
     width: 100%;
-    height: auto;
-    display: block;
-}
-
-/* Estilos para el pie de página */
-footer {
-    background-color: #333;
-    color: white;
-    padding: 20px;
-}
-
-.footer-container {
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo oscuro semi-transparente */
+    z-index: 1000;
     display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Estilo del contenido dentro de la ventana modal */
+.modal-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    /* Añadir transform para asegurar el centrado */
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+/* Estilo del botón de cerrar la ventana modal */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: black;
+}
+
+/* Sección de detalles de la suscripción dentro de la ventana modal */
+.subscription-details {
+    text-align: left; /* Alineación a la izquierda */
     margin-bottom: 20px;
 }
 
-.footer-section {
-    flex: 1;
-    margin: 10px;
-    min-width: 200px;
+/* Sección de enlaces a redes sociales */
+.social-media-links img {
+    width: 40px; /* Tamaño de los iconos */
+    margin: 0 10px; /* Espaciado entre los iconos */
+    cursor: pointer;
 }
 
-.footer-section h3 {
-    margin-bottom: 10px;
-    color: #ff0000;
+.additional-actions {
+    margin-top: 20px; /* Espaciado superior para la sección de acciones */
 }
 
-.footer-section ul {
-    list-style: none;
-    padding: 0;
-}
-
-.footer-section ul li {
-    margin: 5px 0;
-}
-
-.footer-section ul li a {
+.button {
+    display: inline-block;
+    background-color: #28a745; /* Color verde para los botones de acción */
     color: white;
+    padding: 10px 20px;
     text-decoration: none;
-    transition: color 0.3s;
+    border-radius: 5px;
+    margin-right: 10px; /* Espaciado entre botones */
 }
 
-.footer-section ul li a:hover {
-    color: #ff0000;
+.button:hover {
+    background-color: #218838; /* Color más oscuro al pasar el mouse */
+}
+/* Media Queries para adaptar la modal en dispositivos móviles */
+@media (max-width: 600px) {
+    .modal-content {
+        width: 95%; /* Aumenta el ancho en dispositivos pequeños */
+        padding: 15px; /* Ajusta el padding para más espacio */
+    }
+
+    .social-media-links img {
+        width: 30px; /* Reduce el tamaño de los iconos */
+        margin: 0 8px; /* Ajusta el espaciado entre los iconos */
+    }
+
+    .button {
+        padding: 8px 16px; /* Reduce el padding para los botones */
+        font-size: 14px; /* Reduce el tamaño de la fuente para los botones */
+    }
+
+    /* Ajustar los detalles de la suscripción para mejor visualización */
+    .subscription-details {
+        font-size: 14px; /* Reduce el tamaño de la fuente */
+    }
+
+    /* Ajustar el tamaño y posición del botón de cerrar */
+    .close {
+        font-size: 24px; /* Reduce el tamaño del ícono de cerrar */
+    }
 }
 
-.footer-social {
-    text-align: center;
-    margin-bottom: 20px;
+/* Asegurarse de que los botones y textos son fácilmente legibles y accesibles */
+input[type="text"], button {
+    font-size: 16px; /* Asegura que el texto es legible */
+    padding: 12px 20px; /* Aumenta el padding para facilitar la interacción */
 }
 
-.footer-social a {
-    margin: 0 10px;
-    color: white;
-    font-size: 24px;
-    transition: color 0.3s;
+/* Ajustes para etiquetas y campos de texto */
+label, input[type="text"] {
+    margin-top: 10px; /* Aumenta el margen superior */
+    margin-bottom: 10px; /* Aumenta el margen inferior */
 }
 
-.footer-social a:hover {
-    color: #ff0000;
-}
-
-.footer-bottom {
-    text-align: center;
-    border-top: 1px solid #444;
-    padding-top: 10px;
-    margin-top: 10px;
-}
-
-.footer-flags img {
-    width: 30px;
-    height: auto;
-    margin: 0 5px;
-}
-
-/* Diseño responsivo */
-@media (max-width: 768px) {
-    .top-bar {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .logo img {
-        height: 40px;
-    }
-
-    .search-bar {
-        width: 100%;
-        margin-top: 10px;
-    }
-
-    .main-nav ul {
-        flex-direction: column;
-        align-items: flex-start;
-        height: auto;
-    }
-
-    .main-nav ul li {
-        margin-right: 0;
-    }
-
-    .product-carousel div img {
-        width: 70%;
-    }
-
-    .promo-carousel,
-    .testimonial-carousel {
-        height: auto;
-    }
-
-    .footer-container {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .footer-section {
-        margin: 20px 0;
-    }
+/* Asegurar que el botón es accesible */
+button {
+    min-width: 120px; /* Establece un ancho mínimo para los botones */
 }
